@@ -1,6 +1,7 @@
 - 👋 Ola eu sou Samuel Lisboa, Engenheiro, software e hardware
 
 - 👀 sou puramente apaixonado por esquemas eletricos eletricos e logica, em resumo tecnologia, mas tambem gosto de geografia e ciencias porem não estudo muito essa área
+
 ![image](https://user-images.githubusercontent.com/17934676/127382919-2463857b-c37e-4047-8aed-7b1e9b58a906.png)
 
 
