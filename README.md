@@ -1,23 +1,25 @@
-- 👋 Ola eu sou Samuel Lisboa, Engenheiro de software e hardware
 
-- 👀 Sou puramente apaixonado por esquemas eletricos e logica, em resumo tecnologia, mas tambem gosto de geografia e ciencias porem não estudo muito essa área
-
-![image](https://user-images.githubusercontent.com/17934676/127382919-2463857b-c37e-4047-8aed-7b1e9b58a906.png)
+![sc](https://user-images.githubusercontent.com/17934676/135638790-5ce6f0f4-ef4b-401d-9da3-dec7a2813905.png)
 
 
-- 🌱 Atualmente [28/07/2021] meu foco é me aprimorar cada vez mais, sempre estudando.
- 
-- 💞️ Tenho um amor primario em minha vida Marceli💞️ 
-
-- 📫 Quero alcaçar em breve, ter um conhecimento vasto, e ajudar pessoas a terem uma vida mais satisfatória
-
-Acesse meu site:
-https://startscode.com.br/
-
-![image](https://user-images.githubusercontent.com/17934676/132904642-1052893c-61a3-40ed-b87f-1de3712afa6a.png)
+### :boy: Sobre mim
+Sou Samuel Lisboa trabalho com Automação, Engenheiro Eletricista, Desenvolvimento de protótipos eletrônicos e desenvolvimento de sistemas (Java, Android, Web, C#, pic16f628a, mcu8266). Desenvolvo projetos eletrônicos utilizando microcontroladores de 8 bits da família PIC, AVR e microcontroladores de 32 bits da família ESP.
 
 
-<!---
-samuelprogramer/samuelprogramer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### :heartpulse: Principais Interesses / Aprendizados
+
+- Sistemas Embarcados 
+- Internet das Coisas
+- Eletrônica Digital e Analógica
+- Automação
+- 
+Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar em contato e sugerir coisas novas.
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelprogramer&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=samuelprogramer&theme=tokyonight"/></td>
+    </tr>   
+</table>
+</center>
