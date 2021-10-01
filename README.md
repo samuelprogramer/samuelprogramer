@@ -13,7 +13,9 @@ Sou Samuel Lisboa trabalho com Automação, Engenheiro Eletricista, Desenvolvime
 - Internet das Coisas
 - Eletrônica Digital e Analógica
 - Automação
-- 
+- Sistemas para Administração Empresarial
+
+
 Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar em contato e sugerir coisas novas.
 <center>
 <table>
