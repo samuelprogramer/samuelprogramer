@@ -1,9 +1,19 @@
 
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Samuel Lisboa</h1>
+
+</div>
 
 
 ### :boy: Sobre mim
-Sou Samuel Lisboa trabalho com Automação, Engenheiro Eletricista, Desenvolvimento de protótipos eletrônicos e desenvolvimento de sistemas (Java, Android, Web, C#, pic16f628a, mcu8266). Desenvolvo projetos eletrônicos utilizando microcontroladores de 8 bits da família PIC, AVR e microcontroladores de 32 bits da família ESP.
+Trabalho com Automação, Engenheiro Eletricista, Desenvolvimento de protótipos eletrônicos e desenvolvimento de sistemas (Java, Android, Web, C#, pic16f628a, mcu8266). Desenvolvo projetos eletrônicos utilizando microcontroladores de 8 bits da família PIC, AVR e microcontroladores de 32 bits da família ESP.
 
+### Atualmente
+Estou sempre tentando me aprimorar, desenvolvendo projetos e passando por novas experiencias.
+Projetos em: React Native, Android, nodeJs, SQL, C# entre outras linguagens
+
+Depois de muitas tentativas consegui rodar GTA 5 no linux 🤭
 
 
 ### :heartpulse: Principais Interesses / Aprendizados
