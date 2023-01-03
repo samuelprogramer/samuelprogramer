@@ -1,5 +1,4 @@
 
-![sc](https://user-images.githubusercontent.com/17934676/135638790-5ce6f0f4-ef4b-401d-9da3-dec7a2813905.png)
 
 
 ### :boy: Sobre mim
