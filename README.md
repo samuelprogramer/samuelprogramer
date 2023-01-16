@@ -26,11 +26,4 @@ Depois de muitas tentativas consegui rodar GTA 5 no linux 🤭
 
 
 Obrigado pela sua visita e volte sempre, também sinta-se a vontade para entrar em contato e sugerir coisas novas.
-<center>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelprogramer&hide=html&layout=compact&theme=tokyonight" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=samuelprogramer&theme=tokyonight"/></td>
-    </tr>   
-</table>
-</center>
+
