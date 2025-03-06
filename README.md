@@ -18,16 +18,3 @@ I'm a passionate software developer with a strong interest in open-source projec
 ## 📈 GitHub Stats
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelprogramer&show_icons=true&theme=radical)
 
-## 🏆 Top Repositories
-- [Awesome Project](https://github.com/samuelprogramer/awesome-project): A description of this awesome project.
-- [Cool Library](https://github.com/samuelprogramer/cool-library): A description of this cool library.
-
-Feel free to explore my repositories and contribute to any projects that interest you!
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/samuelprogramer)
-- [Twitter](https://twitter.com/samuelprogramer)
-
----
-
-*This is an auto-generated README file. For any updates or changes, please feel free to edit the content.*
