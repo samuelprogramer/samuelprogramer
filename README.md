@@ -9,7 +9,7 @@ My name is Samuel Lisboa and I am a software engineer, with experience in web de
 - 👯 I’m looking to collaborate on innovative and impactful projects
 - 💬 Ask me about web development, Python, and JavaScript
 - 📫 How to reach me: [Email](samuellisboa97@gmail.com)
-- 📫 My web site: [mistarts](mistarts.sytes.net)
+- 📫 My web site: [mistarts](https://mistarts.sytes.net)
 - ⚡ Fun fact: I enjoy hiking and playing the guitar in my free time
 
 ## 🛠️ Languages and Tools
